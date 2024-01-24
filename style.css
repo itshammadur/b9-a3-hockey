@@ -1,21 +1,7 @@
 .font-manrope{
   font-family: 'Manrope', sans-serif;}
-  /* #slide1{
-    background-image:url('./Images/1.png');
-  } */
-    /* .firstimg{
-      background-image:url('./Images/1.png');
-      height:600px;
-      width:1170px;
-border: 1px solid red;
 
-      
-    } */
-    
     .main-1section{
-      /* height:500px;
-      width:1590px;
-      border:1px solid red; */
       background-image:url('./Images/1.png'
       );
       background-repeat: no-repeat;
